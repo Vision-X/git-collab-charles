@@ -2,9 +2,9 @@ git workflow -- Charles Ballew & Mike Marlow Make changes on unique branch - pre
 
 Mike has task 1 - You should edit five CSS properties.
 
-Charlie has task 2 -
+Charlie has task 2 - You should edit an HTML file. Add a recipe that you like using lists.
 
-Mike has task 3 -
+Mike has task 3 - You should create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter.
 
 Charlie has task 4 -
 
