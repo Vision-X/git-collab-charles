@@ -7,3 +7,8 @@ function multiply(array) {
   let total = (array[0] * array[1]);
   return total;
 }
+
+function sumOfNums(array) {
+  let summage = (array[0] + array[1]);
+  return summage; 
+}
